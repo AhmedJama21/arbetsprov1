@@ -1,4 +1,4 @@
-.menue  {
+.menu  {
     background: url(imeges/bg.png);
     font-weight: bold;
     padding: 0.5rem;
@@ -6,12 +6,12 @@
 .logotype{
    font-size: 30px;
 }
-.menue .container {
+.menu .container {
     display: flex; 
     justify-content: space-between;
     font-size: 20px;
  }
-.menue .container .site-sittings ul > li{
+.menu .container .site-sittings ul > li{
     margin: 0;
     list-style: none;
      margin: 0 1rem;
@@ -19,7 +19,7 @@
    #homee{
    color: #FF7373;
    }
-    .menue .container .shopping-icons ul > li{
+    .menu .container .shopping-icons ul > li{
         margin: 0;
         list-style: none;
         margin: 0 1rem;   
@@ -30,23 +30,23 @@
        position: absolute;
        left: 20px;
     }
-    .menue .container ul {
+    .menu .container ul {
         display: flex;   
     }
-    .menue ul > li :last-child {
+    .menu ul > li :last-child {
     margin-left: 1rem;
     }      
-    .menue2 {
+    .menu2 {
         display: flex;
         justify-content: space-between;
         background: url(imeges/bg.png);
     }
-    .menue2 .metten {
+    .menu2 .metten {
         text-align: center;
         padding: 10rem;
         margin: 16px;  
     }  
-    .menue2 .metten .zero >button {
+    .menu2 .metten .zero >button {
         margin: 16px;
         background-color:#FF7373;
         color: azure;
@@ -203,7 +203,7 @@
         text-align: end;
     }
 
- .mona{
+ .Ahmed{
     display: flex;
     padding-top: 25px;
     justify-content: center;
